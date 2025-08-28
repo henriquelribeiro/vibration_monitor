@@ -10,10 +10,10 @@ Código de teste simples para MPU6050 no fórum Arduino
 
 ✅ Tarefas a Realizar
 
- [] Conectar o sensor MPU6050 ao ESP32
+ [ ] Conectar o sensor MPU6050 ao ESP32
 
- [] Analisar os dados para definir um padrão de vibração (curva de referência) do motor elétrico
+ [ ] Analisar os dados para definir um padrão de vibração (curva de referência) do motor elétrico
 
- [] Calcular e aplicar a matriz de confusão para avaliar a precisão da detecção
+ [ ] Calcular e aplicar a matriz de confusão para avaliar a precisão da detecção
 
- [] Criar uma interface gráfica para exibir os dados em tempo real
+ [ ] Criar uma interface gráfica para exibir os dados em tempo real
