@@ -1,4 +1,4 @@
-Vibration Monitor
+### Vibration Monitor
 
 Este projeto tem como objetivo monitorar vibrações utilizando um sensor MPU6050 conectado a um ESP32, com análise de dados em tempo real e visualização gráfica.
 
